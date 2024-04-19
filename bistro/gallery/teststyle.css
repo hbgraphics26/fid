@@ -1,0 +1,56 @@
+body {
+    background-color: #faf2e4;
+    margin: 0 10%;
+    text-align: center;
+    font-family: "Nunito Sans", sans-serif;
+}
+
+        
+ul {
+    list-style-type: none;
+text-align: center;
+  line-height: 1.5em;
+  margin: 5px 0 15px;
+  padding: 0;
+}
+
+h1 {
+font-family: "Nunito", serif;
+font-weight: normal;
+text-transform: uppercase;
+border-bottom: 1px solid #57b1dc; 
+margin-top: 30px;
+}
+
+h2 {
+    color: #d1633c;
+    font-size: 1em;
+    font-family: "Nunito Sans", sans-serif;
+}
+
+footer{
+    border-top: 1px solid #57b1dc;
+    text-align: center;
+    padding-top: 1em;
+}
+
+footer img{
+
+    width: 40px;
+    height: 40px;
+    margin-left: .5em;
+    margin-right: .5em;
+}
+
+a:link {
+    color: #57b1dc
+}
+
+a:visited {
+    color: #d1633c
+}
+
+a:focus, a:hover {
+    color: #cfa85f
+    
+}
