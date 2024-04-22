@@ -1,0 +1,29 @@
+ body{
+            background-color: #14453d;
+        }
+        footer{
+            font-family: sans-serif
+        }
+        header{
+            text-align: center;
+        }
+        h2 {
+            font-family: "Roboto Slab",sans-serif;
+            text-align: left;
+            font-size: 40px;
+            color: #43c59e;
+        }
+        p {
+            font-family: sans-serif;
+            font-size: 20px;
+            color: white;
+        }
+        ul {
+            font-family: sans-serif;
+            font-size: 20px;
+            color: white;
+        }
+        footer {
+            font-family: sans-serif;
+            color: white;
+        }
